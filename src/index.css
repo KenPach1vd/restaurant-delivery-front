@@ -23,6 +23,11 @@ a {
   margin: auto;
 
 }
+ 
+img{
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}
 
 @keyframes fadeIn {
   0% {
